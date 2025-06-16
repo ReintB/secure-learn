@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "sonner";
-import { toast } from "sonner";
 import { Loader2 } from "lucide-react";
 import ScrollToTopButton from "@/components/ui/scroll-to-top-button";
 
